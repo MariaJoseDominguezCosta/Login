@@ -1,0 +1,15 @@
+.top {
+    position: absolute;
+    width: 731px;
+    height: 69px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    display:contents;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #000000;
+}

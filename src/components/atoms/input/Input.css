@@ -1,0 +1,19 @@
+styles {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* Auto layout */
+    resize: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 5px;
+    position: absolute;
+    background-color: #ffffff;
+    left: calc(50% - 200px/2);
+    top: calc(50% - 200px/2);
+    /* Grey/Grey 3 */
+    border: 1px solid #E1E3E6;
+    width: 150px;
+    margin: 0;
+    height: ('10, 10, 10');
+    border-radius: 2px;
+}

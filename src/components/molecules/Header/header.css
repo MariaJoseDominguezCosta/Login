@@ -1,0 +1,13 @@
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 143px;
+    right: 0px;
+    top: 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #FF8B8B;
+    
+}

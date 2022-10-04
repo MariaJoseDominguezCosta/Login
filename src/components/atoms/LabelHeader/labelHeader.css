@@ -1,0 +1,23 @@
+h1 {
+    position: absolute;
+    width: 461px;
+    height: 24px;
+    right: 35%;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 24px;
+    /* identical to box height, or 67% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+    color: #000000;
+
+
+}
