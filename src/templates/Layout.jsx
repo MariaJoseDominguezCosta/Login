@@ -1,4 +1,4 @@
-import Header from "../components/molecules/Header/Header";
+import Header from "../molecules/Header/Header";
 import Footer from "../molecules/Footer/Footer";
 function Layout({children}) {
     return ( 

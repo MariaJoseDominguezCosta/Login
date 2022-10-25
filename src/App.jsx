@@ -1,15 +1,16 @@
 import React from 'react'
 import './App.css'
-import Layout from './components/templates/Layout'
-import Login from './components/templates/Login'
+//import Layout from './templates/Layout'
+import Mortianos from './pages/Mortianos'
+import StateContext from './context/StateContext' ;
 
 function App() {
 
   return (
-    <>
-        <Layout/>
-        <Login/>
-        </>
+    <StateContext.Provider value={{isLogged:true} }>
+      {/* <Layout/> */}
+      <Mortianos/>
+    </StateContext.Provider>
   )
 }
 

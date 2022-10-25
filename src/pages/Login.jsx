@@ -1,13 +1,11 @@
 import React from 'react'
-import Container from '../organisms/Container'
+import FormL from '../components/organisms/Container';
 
 const Login = () => {
   return (
     <>
     <div> 
-    <form id="form_login">
-        <Container/>
-    </form>
+        <FormL/>
     </div>
     </>
   )
